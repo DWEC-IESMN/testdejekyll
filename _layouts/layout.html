@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>{{page.title}}</title>
+    <meta name="author" content="">
+    <meta name="description" content="">
+</head>
+
+<body>
+    <header>
+        <br>
+        {% include header.html %}
+        <br>
+    </header>
+
+    <nav>
+        <br>
+        {% include nav.html %}
+        <br>
+    </nav>
+    <aside>
+        <br>
+        {% include aside.html %}
+        <br>
+    </aside>
+
+    <section>
+        <br>
+        {{content}}
+        <br>
+    </section>
+
+    <footer>
+        <br>
+        {% include footer.html %}
+        <br>
+    </footer>
+</body>
+
+
+</html>
