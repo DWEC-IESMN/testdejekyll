@@ -5,5 +5,5 @@
 layout: home
 ---
 
-<h1>Fuck you<h1>
-* **Fuck you** (contenido de "index.markdown")
+<h1>Buenos días<h1>
+* **Hoy es miércoles** (contenido de "index.markdown")
